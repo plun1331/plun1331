@@ -1,9 +1,11 @@
 # Hi there! I'm plun1331.
-I can code Python.
+A very cool Python Discord bot developer.
 
-Cool places I made discord bots for:
+Cool places I make discord bots for:
+- [SkyBlock Central](https://discord.gg/SZDdwjs8z)
 - [SkyKings](https://skykings.net)
-- [Atlas](https://the-atlas.net)
+
+Former bot developer on [Atlas](https://the-atlas.net).
 
 ### Github Stats
 ![Overall stats](https://github-readme-stats.vercel.app/api?username=plun1331&theme=cobalt&show_icons=true&count_private=true)
