@@ -2,7 +2,7 @@
 A very cool Python Discord bot developer.
 
 Cool places I make discord bots for:
-- [SkyBlock Central](https://discord.gg/SZDdwjs8z)
+- [Aether Network](https://aether-mc.net)
 - [SkyKings](https://skykings.net)
 
 Former bot developer on [Atlas](https://the-atlas.net).
