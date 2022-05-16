@@ -4,7 +4,7 @@ python man
 Cool places I make discord bots for:
 - [Atlas Network](https://the-atlas.net)
 - [SkyKings](https://skykings.net)
-- [SkyBlock Lounge](https://discord.gg/sbl)
+- [SkyBlock Lounge](https://discord.gg/sblounge)
 
 ### Github Stats
 ![Overall stats](https://github-readme-stats.vercel.app/api?username=plun1331&theme=cobalt&show_icons=true&count_private=true)
