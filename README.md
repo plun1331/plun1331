@@ -12,4 +12,5 @@ Cool places I make discord bots for:
 
 ### Other Stuff
 
-![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=plun1331&theme=cobalt&show_icons=true)
+<figure><embed src="https://wakatime.com/share/@plun1331/d484890c-2459-4b85-88d2-729dd4a04e09.svg"></embed></figure>
+
