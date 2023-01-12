@@ -12,5 +12,5 @@ Cool places I make discord bots for:
 
 ### Other Stuff
 
-<figure><embed src="https://wakatime.com/share/@plun1331/d484890c-2459-4b85-88d2-729dd4a04e09.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@plun1331/d484890c-2459-4b85-88d2-729dd4a04e09.svg"></embed>
 
