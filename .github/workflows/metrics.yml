@@ -22,7 +22,7 @@ jobs:
           # Core
           config_timezone: America/Vancouver
           output_action: commit
-          committer_branch: metrics-renders
+          committer_branch: main
           committer_message: "chore: update metrics"
           # Achievements
           plugin_achievements: yes
