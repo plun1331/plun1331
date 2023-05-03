@@ -30,6 +30,7 @@ jobs:
           plugin_activity: yes
           # Calendar
           plugin_calendar: yes
+          plugin_calendar_limit: 5
           # Followup
           plugin_followup: yes
           plugin_followup_sections: user
