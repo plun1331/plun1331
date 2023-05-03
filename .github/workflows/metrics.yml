@@ -35,7 +35,6 @@ jobs:
           plugin_followup_sections: user
           # Habits
           plugin_habits: yes
-          plugin_habits_charts_type: graph
           # Introduction
           plugin_introduction: yes
           # Lines of Code
