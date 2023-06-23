@@ -5,9 +5,10 @@ Some random developer on the internet.
 I make Discord bots and websites.
 
 ## Languages
-- Python
-- Javascript, sorta
-- ~~Markdown~~
+- 🐍 Python 
+- 💻 Javascript
+- ☕ Learning Java at some point
+- 📜 ~~Markdown~~
 
 ## Stuff I Work On
 - [🔌 Pycord](https://github.com/pycord-development/pycord)
