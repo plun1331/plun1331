@@ -18,4 +18,4 @@ I make Discord bots and websites.
 
 ## Metrics
 
-[![Stats](github-metrics.svg)](https://plun.is-a.dev)
+[![Stats](github-metrics.svg)](https://skykings.net)
