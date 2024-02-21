@@ -40,6 +40,7 @@ jobs:
           plugin_introduction: yes
           # Lines of Code
           plugin_lines: yes
+          plugin_lines_sections: history
           # Notable Contributions
           plugin_notable: yes
           plugin_notable_from: all
