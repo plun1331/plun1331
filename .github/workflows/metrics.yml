@@ -24,8 +24,6 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore: update metrics"
-          # Achievements
-          plugin_achievements: yes
           # Recent Activity
           plugin_activity: yes
           # Calendar
@@ -48,11 +46,6 @@ jobs:
           plugin_stargazers: yes
           # Repository Traffic
           plugin_traffic: yes
-          # Pagespeed
-          plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://skykings.net
-          plugin_pagespeed_detailed: yes
           # Wakatime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
