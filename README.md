@@ -7,7 +7,7 @@ I make Discord bots and websites.
 ## Languages
 - 🐍 Python 
 - 💻 Javascript
-- ☕ Learning Java at some point
+- ☕ Learning Javaish (yay!)
 - 📜 ~~Markdown~~
 
 ## Stuff I Work On
