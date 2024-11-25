@@ -24,30 +24,31 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore: update metrics"
-          # Recent Activity
-          plugin_activity: yes
-          # Calendar
-          plugin_calendar: yes
-          plugin_calendar_limit: 5
+          # Languages
+          plugin_languages: yes
+          # Habits
+          plugin_habits: yes
+          plugin_habits_charts: yes
           # Followup
           plugin_followup: yes
           plugin_followup_sections: user
-          # Habits
-          plugin_habits: yes
-          # Introduction
-          plugin_introduction: yes
-          # Lines of Code
-          plugin_lines: yes
-          plugin_lines_sections: history
-          # Notable Contributions
-          plugin_notable: yes
-          plugin_notable_from: all
-          # Stargazers
-          plugin_stargazers: yes
+          # Calendar
+          plugin_calendar: yes
+          plugin_calendar_limit: 5
+          # Achievements
+          plugin_achievements: yes
+          # Recent Activity
+          plugin_activity: yes
+          plugin_activity_visibility: public
           # Repository Traffic
           plugin_traffic: yes
+          # Introduction
+          plugin_introduction: yes
           # Wakatime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          # Steam
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_API_KEY }}
           
           
