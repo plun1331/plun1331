@@ -14,6 +14,7 @@ I make Discord bots and websites.
 - [🔌 Pycord](https://github.com/pycord-development/pycord)
 - ~~[🎮 minecraft.py](https://github.com/plun1331/minecraft.py)~~ ☠
 - [👑 SkyKings](https://skykings.net)
+- [🧪 Research Complex Avon](https://rcavon.org)
 - [🏊 SwimCord](https://plun.is-a.dev/swimcord)
 
 ## Metrics
