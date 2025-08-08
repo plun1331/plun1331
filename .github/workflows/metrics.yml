@@ -36,7 +36,7 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 5
           # Achievements
-          plugin_achievements: yes
+          #plugin_achievements: yes
           # Recent Activity
           plugin_activity: yes
           plugin_activity_visibility: public
@@ -48,7 +48,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           # Steam
-          plugin_steam: yes
-          plugin_steam_token: ${{ secrets.STEAM_API_KEY }}
+          #plugin_steam: yes
+          #plugin_steam_token: ${{ secrets.STEAM_API_KEY }}
           
           
