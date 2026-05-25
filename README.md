@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm plun1331.
+# Hi there! 👋 I'm Chris.
 
-Some random developer on the internet.
+Just some random developer on the internet.
 
-I make Discord bots and websites.
+I make Discord bots and websites!
 
 ## Languages
 - 🐍 Python 
@@ -10,12 +10,7 @@ I make Discord bots and websites.
 - ☕ Java~
 - 📜 ~~Markdown~~
 
-## Stuff I Work On
-- [🔌 Pycord](https://github.com/pycord-development/pycord)
-- ~~[🎮 minecraft.py](https://github.com/plun1331/minecraft.py)~~ ☠
-- [👑 SkyKings](https://skykings.net)
-- [🧪 Research Complex Avon](https://rcavon.org)
-- [🏊 SwimCord](https://plun.is-a.dev/swimcord)
+https://plunthe.dev
 
 ## Metrics
 
